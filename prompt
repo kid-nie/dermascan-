@@ -44,6 +44,7 @@ RULES:
 -no need for introductory message. 
 -if image is given for ingredients, extract the message from the image and continue with task.
 -if error occurs, tell the exact error.
+-after output, ask if the user wants to check another product or wants to stop searching for product.
 
 
 #no structured output 
