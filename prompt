@@ -9,7 +9,7 @@ ingredients={{ingredients}}
  <variable value="ingredients" /> 
 skin_type={{skin_type}}
  <variable value="skin_type" /> 
-skin_condition={{skin_condition}}
+skin_condition={{skin_conditions}}
  <variable value="skin_conditions" /> 
 
 <response_format>
